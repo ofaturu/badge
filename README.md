@@ -1,2 +1,2 @@
 # badge
-halo, tes
+halo
